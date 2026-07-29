@@ -1,6 +1,34 @@
-# Grass Claimer：第二季空投领取工具（Solana / USDC）
+<div align="center">
+
+<h1>Grass Claimer</h1>
+
+<b>第二季空投领取工具 — Solana / USDC</b>
+
+<sub>只有一个 <code>.exe</code>。整份账户列表。USDC 归集到你指定的一个地址。</sub>
+
+<br><br>
+
+<a href="https://github.com/Birzha76/grass-airdrop-claimer/releases/latest/download/GrassClaimer.exe"><img src="https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-GrassClaimer.exe-2ea043?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a7f37" alt="下载 GrassClaimer.exe" height="42"></a>
+
+<sub>Windows 10/11 · 免安装、无依赖 · 可放在任意文件夹运行</sub>
+
+<br><br>
+
+<a href="https://t.me/birzha76"><img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%80%85-%40birzha76-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="通过 Telegram 联系开发者"></a>
+<img src="https://img.shields.io/badge/Windows-%E5%8D%95%E4%B8%AA%20.exe-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows，单个 exe">
+<img src="https://img.shields.io/badge/Solana-USDC-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana，USDC">
+
+<br>
+
+📮 问题反馈、缺陷报告、定制需求 → **[@birzha76](https://t.me/birzha76)**
+
+<br>
 
 [English](README.md) · [Русский](README-RU.md) · **中文**
+
+</div>
+
+---
 
 Windows 桌面程序：批量领取 **Grass 第二季空投**，并把 **Solana 链上的 USDC** 归集到
 你指定的一个地址。只有一个 `.exe`，无需命令行，也不用编辑配置文件，所有设置都在窗口里完成。

@@ -1,6 +1,34 @@
-# Grass Claimer: клейм аирдропа Season 2 (Solana / USDC)
+<div align="center">
+
+<h1>Grass Claimer</h1>
+
+<b>Клейм аирдропа Season 2 — Solana / USDC</b>
+
+<sub>Один <code>.exe</code>. Весь список аккаунтов. USDC приходят на один ваш адрес.</sub>
+
+<br><br>
+
+<a href="https://github.com/Birzha76/grass-airdrop-claimer/releases/latest/download/GrassClaimer.exe"><img src="https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-GrassClaimer.exe-2ea043?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a7f37" alt="Скачать GrassClaimer.exe" height="42"></a>
+
+<sub>Windows 10/11 · без установки и зависимостей · запускается из любой папки</sub>
+
+<br><br>
+
+<a href="https://t.me/birzha76"><img src="https://img.shields.io/badge/%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA-%40birzha76-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Связь с разработчиком в Telegram"></a>
+<img src="https://img.shields.io/badge/Windows-%D0%BE%D0%B4%D0%B8%D0%BD%20.exe-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows, один exe">
+<img src="https://img.shields.io/badge/Solana-USDC-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana, USDC">
+
+<br>
+
+📮 Вопросы, баги, доработки под задачу → **[@birzha76](https://t.me/birzha76)**
+
+<br>
 
 [English](README.md) · **Русский** · [中文](README-ZH.md)
+
+</div>
+
+---
 
 Программа для Windows: забирает **аирдроп Grass Season 2** сразу по списку аккаунтов
 и переводит **USDC в сети Solana** на один ваш адрес. Один `.exe`, без командной

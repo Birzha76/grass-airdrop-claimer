@@ -1,6 +1,34 @@
-# Grass Claimer: Season 2 airdrop claim tool (Solana / USDC)
+<div align="center">
+
+<h1>Grass Claimer</h1>
+
+<b>Season 2 airdrop claim tool — Solana / USDC</b>
+
+<sub>One <code>.exe</code>. A whole list of accounts. The USDC lands on one address you control.</sub>
+
+<br><br>
+
+<a href="https://github.com/Birzha76/grass-airdrop-claimer/releases/latest/download/GrassClaimer.exe"><img src="https://img.shields.io/badge/Download-GrassClaimer.exe-2ea043?style=for-the-badge&logo=windows&logoColor=white&labelColor=1a7f37" alt="Download GrassClaimer.exe" height="42"></a>
+
+<sub>Windows 10/11 · no installer, no dependencies · runs from any folder</sub>
+
+<br><br>
+
+<a href="https://t.me/birzha76"><img src="https://img.shields.io/badge/Developer-%40birzha76-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact the developer on Telegram"></a>
+<img src="https://img.shields.io/badge/Windows-single%20.exe-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows, single exe">
+<img src="https://img.shields.io/badge/Solana-USDC-14F195?style=for-the-badge&logo=solana&logoColor=white" alt="Solana, USDC">
+
+<br>
+
+📮 Questions, bugs, custom builds → **[@birzha76](https://t.me/birzha76)**
+
+<br>
 
 **English** · [Русский](README-RU.md) · [中文](README-ZH.md)
+
+</div>
+
+---
 
 Windows desktop app that claims the **Grass Season 2 airdrop** for a whole list of
 accounts and sweeps the **USDC on Solana** to one address you control. One `.exe`,
